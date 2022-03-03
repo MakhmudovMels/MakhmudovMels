@@ -10,7 +10,7 @@
 
 ##### Foundamental programming knowledge
 <img align="left" alt="C++" width="50px" src="https://camo.githubusercontent.com/716c20f454fef17485712c6bfda0f6343ac75983a673228c59aa3bf4076c9f99/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f63706c7573706c75732d6f726967696e616c2e737667" />
-
+<br>
 ##### Frontend
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
