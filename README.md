@@ -3,8 +3,10 @@
 ### About me:
 - 🌱 I’m currently learning computer technology and everything related to them
 - 📚 Studying at Kuban State University, Krasnodar, Russia
-- 🗺️ love to travel
-- 🏋️‍♀️ love sports
+- ✏ I like math
+- 📕 I read fiction and scientific literature
+- 🗺️ I love to travel
+- 🏋️‍♀️ I love sports
 ----
 ### My skills:
 
